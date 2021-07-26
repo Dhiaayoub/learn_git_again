@@ -1,0 +1,84 @@
+.img0{
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left:400px;
+    border-radius: 22px;
+}
+.p1{
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-left:550px; 
+    margin-bottom: -10px;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.CDPS4{
+    color: rgb(185, 98, 98);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left:650px; 
+}
+.g1{
+height: 350px;
+width: 250px;
+display: flex;
+flex-direction: column;
+margin: 50px;
+}
+.hj{
+    display: flex;
+}
+.m25{
+    margin-top: 100px;
+    margin-left: 5px;
+}
+.tt{
+    background-color: chartreuse;
+    border-radius: 22px;
+    width: 80px;
+}
+.pp{
+    background-color: chocolate;
+}
+.btn{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: rgb(0, 0, 0);
+}
+a{
+color: cyan;
+}
+.heart i.fa-heart{
+    color: #f44336;
+}
+.add{
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+    width: 80px;
+}
+.cart{
+    width: 250px;
+    float:right ;
+    text-align: center;
+    border: 1px  solid black  ;
+    overflow-y: scroll;
+    height: 100px;
+}
+button{
+   border: 2px;
+   background-color: coral;
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+   margin: 20px;
+   padding: 5px 10px;
+}
+.cartimg{
+    width: 200px;
+}
+.tty{
+ display: flex;
+    margin-left: 70px;
+    color: red;
+}
+.mml{
+    
+}
